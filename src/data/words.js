@@ -9331,6 +9331,12 @@ const words = {
   zuppa: true,
   zuzim: true,
   zymes: true,
+  smash: true,
+  melee: true,
+  brawl: true,
+  mario: true,
+  samus: true,
+  yoshi: true,
 }
 
 export default words
